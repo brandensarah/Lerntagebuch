@@ -1,7 +1,7 @@
 ---
-title: Lerntagebuch
+title: Lerntagebuch BAIN
 ---
 
-## Willkommen zu meinem Lerntagebuch
+## Mein Lerntagebuch
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+ 
