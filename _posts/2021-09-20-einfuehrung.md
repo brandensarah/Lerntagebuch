@@ -5,7 +5,7 @@ date: 2023-02-20
 <details open>
 <summary>Wo ich starte</summary>
 <br>
-Liebes Tagebuch  
+Liebes Tagebuch   
 So, nun gilt es dich im Zuge des Moduls BAIN zu füttern. Momentan bist du noch so schlank, wie ein Murmeltier im Frühjahr. Ich bin aber überzeugt, dass sich die Zeilen und Seiten füllen werden und das Gelernte viel sein wird.  
 Meine Erfahrungen im Praxisbereich der Bibliotheks- und Archivinformatik bezieht sich auf ein Bildarchiv, das über ein NAS-System funktionierte. Wobei es aber bei meinem Teil weniger um die technische Aspekte, sondern mehr um die Bewertung, Verschlagwortung den Upload ging. Die Erfahrungen beliefen sich auf Anwenderseite. Darum bin ich schon gespannt, was ich im kommenden Modul mehr über Archivsysteme –und natürlich auch Bibliothekssysteme – erfahre. Gerade das Kennenlernen der technischen Aspekte interessiert mich.   
 Obwohl ich in der Praxis nicht die grösste Erfahrung mit Bibliotheks- und Archivinformatik habe, denke ich aber, dass die bisherigen, vielfältigen Grundlagen des Studiums mir im Modul beim Verständnis sicherlich helfen werden. Gerade im vergangenen Modul DILZA wurden beispielsweise Metadaten nochmals behandelt. Aber auch bei Inhalten aus den Modulen ARIS oder WINF, denke ich, werde ich anknüpfen können. So bin ich sehr optimistisch, die Kursziele erreichen zu können. Weiter bin überzeugt, dass auch die Motivation zum Ziel führen wird.  
