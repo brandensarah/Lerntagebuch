@@ -22,6 +22,7 @@ Dies sah dann so aus: <br>
   <br>
 Dabei können beispielsweise Facetten erstellt werden:
    <br>
+   <br>
   <figure>
     <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_2.jpg">
   <figcaption>Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot</figcaption>
@@ -32,6 +33,7 @@ Bei einer kleinen Fingerübung hatten wir die Gelegenheit OpenRefine noch etwas 
 Auch ist es möglich, im OpenRefine Cluster zu erstellen.
 Zuletzt wurde noch die Reconciliation vorgestellt, bei der Angaben zum Journal über die ISSN ergänzt werden können. Dabei entsteht eine zusätzliche Spalte. Auch dies war mir neu. 
 Ein interessanter Unterricht mit viel Gelerntem ging so zu Ende. Ich bin bereits auf die nächste Lektion gespannt.
-
+ <br>
+   <br>
 Quellen: 
 https://openrefine.org/  
