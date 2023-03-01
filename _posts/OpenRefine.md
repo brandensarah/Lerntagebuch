@@ -13,4 +13,4 @@ Wer eine Software nutzt und für was sie genutzt wird, ist bei der Evaluation ei
 OpenRefine kann besonders gut mit Tabellendaten umgehen. Es kann auch MARCXML und JSON importieren, sofern diese nicht allzu verschachtelt sind. 
 Zur Übung importierte jede/r Daten mit einer kleineren Menge von 1001 Zeilen von Journals ins OpenRefine. Und wir erstellten somit ein neues Projekt. Was für mich gut ging.<br>
 Dies sah dann so aus: <br>
-<img src="https://github.com/brandensarah/Lerntagebuch/blob/master/bild%20le2_2.png>
+<img src="https://github.com/brandensarah/Lerntagebuch/blob/master/bild%20le2_2.png">
