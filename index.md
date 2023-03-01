@@ -1,5 +1,5 @@
 ---
-title: Lerntagebuch BAIN Sarah Brandenberger
+title: Lerntagebuch BAIN 
 ---
 
 ### Mein Tagebuch
