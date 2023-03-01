@@ -13,16 +13,19 @@ Wer eine Software nutzt und für was sie genutzt wird, ist bei der Evaluation ei
 OpenRefine kann besonders gut mit Tabellendaten umgehen. Es kann auch MARCXML und JSON importieren, sofern diese nicht allzu verschachtelt sind. 
 Zur Übung importierte jede/r Daten mit einer kleineren Menge von 1001 Zeilen von Journals ins OpenRefine. Und wir erstellten somit ein neues Projekt. Was für mich gut ging.<br>
 Dies sah dann so aus: <br>
+  <br>
   <figure>
     <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/bild%20le2_2.png">
   <figcaption>Abbildung 1: Die importierten Daten. Screenshot</figcaption>
 </figure>
   <br>
+  <br>
 Dabei können beispielsweise Facetten erstellt werden:
   <figure>
-    <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/bild%20le2_3.png">
+    <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/bild%20le2_3.jpg">
   <figcaption>Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot</figcaption>
 </figure>
+  <br>
   <br>
 Bei einer kleinen Fingerübung hatten wir die Gelegenheit OpenRefine noch etwas anzuwenden. Es ging darum, einen Namen zu korrigieren, der in zwei verschiedenen Varianten erschien. Den einen Namen, die eine Schreibweise, konnte ich mittels eines Edit-Tools anpassen, was gut gelang.
 Auch ist es möglich, im OpenRefine Cluster zu erstellen.
