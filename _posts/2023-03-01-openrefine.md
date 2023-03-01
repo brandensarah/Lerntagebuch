@@ -14,10 +14,10 @@ OpenRefine kann besonders gut mit Tabellendaten umgehen. Es kann auch MARCXML un
 Zur Übung importierte jede/r Daten mit einer kleineren Menge von 1001 Zeilen von Journals ins OpenRefine. Und wir erstellten somit ein neues Projekt. Was für mich gut ging.<br>
 Dies sah dann so aus: <br>
   <br>
-  <figure>
+
   <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_1.png">
-  <figcaption>Abbildung 1: Die importierten Daten. Screenshot</figcaption>
-</figure>
+Abbildung 1: Die importierten Daten. Screenshot
+
   <br>
   <br>
 Dabei können beispielsweise Facetten erstellt werden:
