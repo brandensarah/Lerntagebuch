@@ -15,14 +15,14 @@ Zur Übung importierte jede/r Daten mit einer kleineren Menge von 1001 Zeilen vo
 Dies sah dann so aus: <br>
   <br>
   <figure>
-    <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/bild%20le2_2.png">
+  <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_1.png">
   <figcaption>Abbildung 1: Die importierten Daten. Screenshot</figcaption>
 </figure>
   <br>
   <br>
 Dabei können beispielsweise Facetten erstellt werden:
   <figure>
-    <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/bild%20le2_3.jpg">
+    <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_2.jpg">
   <figcaption>Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot</figcaption>
 </figure>
   <br>
