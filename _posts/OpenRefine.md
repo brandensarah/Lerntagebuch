@@ -17,4 +17,9 @@ Dies sah dann so aus: <br>
     <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/bild%20le2_2.png">
   <figcaption>Abbildung 1: Die importierten Daten. Screenshot</figcaption>
 </figure>
-
+Dabei können beispielsweise Facetten erstellt werden:
+  <figure>
+    <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/bild%20le2_3.png">
+  <figcaption>Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot</figcaption>
+</figure>
+  
