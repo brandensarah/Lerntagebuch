@@ -36,4 +36,4 @@ Ein interessanter Unterricht mit viel Gelerntem ging so zu Ende. Ich bin bereits
  <br>
    <br>
 Quellen: 
-https://openrefine.org/  
+OpenRefie, https://openrefine.org/  
