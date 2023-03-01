@@ -21,6 +21,7 @@ Dies sah dann so aus: <br>
   <br>
   <br>
 Dabei können beispielsweise Facetten erstellt werden:
+   <br>
   <figure>
     <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_2.jpg">
   <figcaption>Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot</figcaption>
