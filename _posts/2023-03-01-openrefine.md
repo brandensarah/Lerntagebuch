@@ -14,8 +14,7 @@ OpenRefine kann besonders gut mit Tabellendaten umgehen. Es kann auch MARCXML un
 Zur Übung importierte jede/r Daten mit einer kleineren Menge von 1001 Zeilen von Journals ins OpenRefine. Und wir erstellten somit ein neues Projekt. Was für mich gut ging. <br>
  Dies sah dann so aus: <br>
  <br>
-<img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_1.png">
-<img src="https://raw.githubusercontent.com/brandensarah/Lerntagebuch/master/_posts/bild_le2_1.png">
+<img src="https://github.com/brandensarah/Lerntagebuch/blob/master/bild_le2_1.png">
   <br>
    <br>
  Abbildung 1: Die importierten Daten. Screenshot 
