@@ -11,12 +11,22 @@ Als Erstes lernten wir, wie man sich in der Shell in OpenRefine einloggt und def
 Auch schauten wir eine Umfrage an, die von OpenRefine regelmässig durchgeführt wird. Aus der Umfrage ging hervor, dass die Community, die OpenRefine nutzt, doch recht breit ist. Es kommen noch lange nicht alle Nutzer/innen aus dem Bibliotheksbereich. Zwar hat es im Bibliotheksbereich eine grosse Verbreitung, aber wie erwähnt, sind andere Bereiche wie z.B. Datenjournalismus auch vertreten.<br>
 Wer eine Software nutzt und für was sie genutzt wird, ist bei der Evaluation einer Software auch wichtig. Es wurde uns empfohlen, dass alle Statistiken bei der Evaluation von Software helfen und auch das Wissen welche Personen dahinterstehen. Diese Hinweise fand ich sehr hilfreich. Somit kam ich dem Lernziel Evaluation einen kleinen Schritt näher. <br>
 OpenRefine kann besonders gut mit Tabellendaten umgehen. Es kann auch MARCXML und JSON importieren, sofern diese nicht allzu verschachtelt sind. 
-Zur Übung importierte jede/r Daten mit einer kleineren Menge von 1001 Zeilen von Journals ins OpenRefine. Und wir erstellten somit ein neues Projekt. Was für mich gut ging.<br>
+Zur Übung importierte jede/r Daten mit einer kleineren Menge von 1001 Zeilen von Journals ins OpenRefine. Und wir erstellten somit ein neues Projekt. Was für mich gut ging. <br>
+ Dies sah dann so aus: <br>
  <br>
 <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_1.png">
   <br>
+   <br>
+ Abbildung 1: Die importierten Daten. Screenshot 
+  <br>
+Dabei können beispielsweise Facetten erstellt werden. 
+
+  <br>
 <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_2.jpg">
- ![Screenshot](https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_1.png?raw=true)
+  <br>
+![Screenshot](https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_1.png?raw=true)
+ 
+Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot 
      <br>
 Bei einer kleinen Fingerübung hatten wir die Gelegenheit OpenRefine noch etwas anzuwenden. Es ging darum, einen Namen zu korrigieren, der in zwei verschiedenen Varianten erschien. Den einen Namen, die eine Schreibweise, konnte ich mittels eines Edit-Tools anpassen, was gut gelang.
 Auch ist es möglich, im OpenRefine Cluster zu erstellen.
