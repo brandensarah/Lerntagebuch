@@ -16,6 +16,7 @@ Dies sah dann so aus: <br>
   <br>
 
   <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_1.png">
+  <img src="bild_le2_1.png"
 Abbildung 1: Die importierten Daten. Screenshot
   <figure>
     <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_1.png">
