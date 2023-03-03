@@ -23,7 +23,7 @@ Zur Übung importierte jede/r Daten mit einer kleineren Menge von 1001 Zeilen vo
 Dabei können beispielsweise Facetten erstellt werden. 
  <br>
   <br>
-<img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_2.jpg">
+<img src="https://github.com/brandensarah/Lerntagebuch/blob/master/bild_le2_2.jpg">
    <br>
   <br>
 Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot 
