@@ -14,7 +14,7 @@ OpenRefine kann besonders gut mit Tabellendaten umgehen. Es kann auch MARCXML un
 Zur Übung importierte jede/r Daten mit einer kleineren Menge von 1001 Zeilen von Journals ins OpenRefine. Und wir erstellten somit ein neues Projekt. Was für mich gut ging.<br>
  <br>
   <a href="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_1.png">«Library Carpentry»</a>
-<img src="bild_le2_1.png"
+<img src="_posts/bild_le2_1.png"
      <br>
 Bei einer kleinen Fingerübung hatten wir die Gelegenheit OpenRefine noch etwas anzuwenden. Es ging darum, einen Namen zu korrigieren, der in zwei verschiedenen Varianten erschien. Den einen Namen, die eine Schreibweise, konnte ich mittels eines Edit-Tools anpassen, was gut gelang.
 Auch ist es möglich, im OpenRefine Cluster zu erstellen.
