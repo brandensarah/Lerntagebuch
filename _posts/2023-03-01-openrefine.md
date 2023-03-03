@@ -16,6 +16,7 @@ Zur Übung importierte jede/r Daten mit einer kleineren Menge von 1001 Zeilen vo
 <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_1.png">
   <br>
 <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_2.jpg">
+ ![Screenshot](https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_1.png?raw=true)
      <br>
 Bei einer kleinen Fingerübung hatten wir die Gelegenheit OpenRefine noch etwas anzuwenden. Es ging darum, einen Namen zu korrigieren, der in zwei verschiedenen Varianten erschien. Den einen Namen, die eine Schreibweise, konnte ich mittels eines Edit-Tools anpassen, was gut gelang.
 Auch ist es möglich, im OpenRefine Cluster zu erstellen.
