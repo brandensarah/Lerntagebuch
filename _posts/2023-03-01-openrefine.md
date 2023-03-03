@@ -17,7 +17,10 @@ Dies sah dann so aus: <br>
 
   <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_1.png">
 Abbildung 1: Die importierten Daten. Screenshot
-
+  <figure>
+    <img src="https://github.com/brandensarah/Lerntagebuch/blob/master/_posts/bild_le2_1.png">
+  <figcaption>Abbildung 1: Die importierten Daten. Screenshot</figcaption>
+</figure>
   <br>
   <br>
 Dabei können beispielsweise Facetten erstellt werden:
