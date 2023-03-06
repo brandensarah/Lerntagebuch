@@ -29,7 +29,7 @@ Dabei können beispielsweise Facetten erstellt werden.
 Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot 
      <br>
   <br>
- ![Abbildung 1: Die importierten Daten. Screenshot ](https://github.com/brandensarah/Lerntagebuch/blob/master/bild_le2_2.jpg)
+ ![Abbildung 1: Die importierten Daten. Screenshot](bild_le2_2.jpg)
 Bei einer kleinen Fingerübung hatten wir die Gelegenheit OpenRefine noch etwas anzuwenden. Es ging darum, einen Namen zu korrigieren, der in zwei verschiedenen Varianten erschien. Den einen Namen, die eine Schreibweise, konnte ich mittels eines Edit-Tools anpassen, was gut gelang.
 Auch ist es möglich, im OpenRefine Cluster zu erstellen.
 Zuletzt wurde noch die Reconciliation vorgestellt, bei der Angaben zum Journal über die ISSN ergänzt werden können. Dabei entsteht eine zusätzliche Spalte. Auch dies war mir neu. 
