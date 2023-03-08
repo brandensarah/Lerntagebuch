@@ -2,9 +2,8 @@
 title: "Tag 3"
 date: 2023-03-09
 ---
-### MARC 21 und Koha
-<br>
-<h4><b>MARC 21</b></h4>
+### MARC 21 und Koha  
+#### MARC 21  
 <br>
 Zu Beginn schauten wir MARC 21 den meist verbreiteten Standard von Bibliotheksmetadaten an, der von Library of Congress begründet wurde. Alle Bibliothekssysteme basieren auf diesem Standard. MARC 21 kann in zwei verschiedenen Dateiformaten vorliegen – entweder .mrc als Binärformat oder aber als XML. Was wir dann etwas genauer anschauten. Dabei werden Felder darin nur mit Zahlen definiert, so beispielsweise 210 für den abgekürzten Titel eines Buchs, was es in der Spezifikation nachzugschlagen gilt. Die Einführung war spannend, da ich noch keinen grösseren Kontakt mit MARC 21 in der Praxis hatte. 
 Auch wurde BIBFRAME kurz angeschnitten, mit dem Ziel MARC 21 längerfristig abzulösen wurde dieses entwickelt. Hier sind Verknüpfungen möglich, es ist wie ein kleines Linked-Data-Modell, was bei MARC 21 nicht möglich ist. 
@@ -24,7 +23,7 @@ Zum Ergründen wie gesund Open Source Produkte erhält man einen Überblick beis
 Danach gab es ein Tutorial von Koha. Beim Koha wird auch MARC 21 verwendet, was natürlich für Nutzer/innen schön angelegt und für menschliche Nutzer/innen les- und bedienbar ist. Viele Normierungen sind möglich wie Thesauri hinterlegen, auch sind viele Felder konfigurierbar und individualisierbar, so zum Beispiel ob es ein Pflichtfeld ist oder nicht. Bei den Voreinstellungen finden sich auch verschiedene Medientypen wie beispielsweise Bücher, Musik, E-Books, Karten oder Zeitschriften. Auch lassen sich kundengruppenspezifische Gebühren für die Ausleihe festlegen. Mit Koha kann man auch mehrere Zweigstellen von Bibliotheken verwalten. Und viele mehr Konfigurationsparameter sind möglich. Als kurzer Einstieg ins Koha war der Rundgang für mich sehr erkenntnisreich. Es war das erste Mal, das ich Koha gesehen habe. In der nächsten Übung haben wir im Koha ein Buch und Benutzer/in aufgenommen sowie eine Ausleihe durchgeführt. Was gut ging.
 <br>
 <br>
-![](bild_le3_2.png)
+![](bild_le3_1.png)
 <br>
 <br>
 
