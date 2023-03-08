@@ -27,6 +27,7 @@ Abbildung 1: Die Maske zur Erfassung einer Ausleihe.
 
 <br>
 Quellen: 
+ <br>
 Library of Congress, Summary Statement of content designators, MARC 21 Bibliographic https://www.loc.gov/marc/bibliographic/
 <br>
 IFLA, Funktionelle Anforderungen an bibliografische Datensätze: Abschlussbericht (2006), https://repository.ifla.org/bitstream/123456789/817/1/ifla-functional-requirements-for-bibliographic-records-frbr_2006-de.pdf
