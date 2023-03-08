@@ -2,9 +2,7 @@
 title: "Tag 2"
 date: 2023-03-01
 ---
-<details open>
-<summary>OpenRefine</summary>
-<br>
+## Open Refine
 Als Literaturempfehlung wurde uns zu Beginn der Lektion beispielsweise <a href="https://librarycarpentry.org/lessons/">«Library Carpentry»</a> empfohlen. Hier werde ich nach dem Kurs sicher gerne einmal rumstöbern, ich kannte die Seite noch nicht, ich finde aber, dass sie interessant tönt. Die Seite bietet verschiedene Kurse, Lektionen und Workshops im Bereich Daten rund um die Bibliotheksinformatik. Die Lektionen darauf haben verschiedene Status – von stabil bis noch am Anfang der Erprobung.<br>
 Danach ging es mit dem eigentlichen Thema der Software OpenRefine los. Das Logo soll einen rohen Diamanten – die rohen Daten sozusagen illustrieren. Man geht davon aus, dass fast alle Daten bereinigt werden können. Daten können mit einer ganzen Menge von anderen Daten abgeglichen und danach angepasst und die Daten zusammengeführt werden. Eine Hauptanwendung ist das Facettieren. Hier werden grosse Datensets mit Hilfe von Facetten durchsucht und es werden Operationen auf gefilterte Ansichten des Datasets angewendet (<a href="https://openrefine.org/">OpenRefine</a>). Auch für Bereinigungen von Bibliothekskatalogen wird es beispielsweise genutzt. Wie Schreibfehler bereinigen. Auch grosse Bibliotheken sind davon nicht ganz gefeit. Die Daten bleiben auf der lokalen Maschine, auf der sie bearbeitet werden. All dies war neu für mich.<br>
 Als Erstes lernten wir, wie man sich in der Shell in OpenRefine einloggt und definierten einen Port zur Nutzung. Dies klappte für mich gut.<br>
@@ -27,6 +25,7 @@ Dabei können beispielsweise Facetten erstellt werden.
    <br>
   <br>
 Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot 
+![Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot](https://github.com/brandensarah/Lerntagebuch/blob/master/bild_le2_2.jpg)
      <br>
   <br>
  ![Abbildung 1: Die importierten Daten. Screenshot](bild_le2_2.jpg)
