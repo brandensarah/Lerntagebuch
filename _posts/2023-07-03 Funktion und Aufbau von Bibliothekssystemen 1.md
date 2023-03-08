@@ -2,8 +2,7 @@
 title: "Tag 3"
 date: 2023-03-09
 ---
-<details open>
-<summary>MARC 21 und Koha</summary>
+### MARC 21 und Koha
 <br>
 <h4><b>MARC 21</b></h4>
 <br>
