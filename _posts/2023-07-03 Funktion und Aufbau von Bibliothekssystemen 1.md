@@ -15,7 +15,9 @@ Bei einer kleinen Übung luden wir Daten einmal im MARC 21 und einmal im Dublin 
 <h4><b>Unterschied Regelwerk und Metadaten</b></h4>
 <br>
 Bei den Regelwerken gibt es Functional Requirements for Bibliographic Records (FRBR) und Resource Description and Access (RDA) sind Regelwerke, die nicht mit Metadaten zu verwechseln sind. In den Regelwerken ist aufgeführt. Das Functional Requirements for Bibliographic Records (FRBR) und benennt Beziehungen zwischen Entitäten resp. basiert auf einem Entity-Relationship-Modell. Es sind aber auch Begriffe wie Exemplar, Manifestation u.s.w. mit Merkmalen definiert. 
-Open Source Produkte
+<br>
+<h4><b>Open Source Produkte</b></h4>
+<br>
 Zum Ergründen wie gesund Open Source Produkte erhält man einen Überblick beispielsweise auf Openhub.net. Hier gibt es verschiedene Kennzahlen. Die Community Grösse kann zum Beispiel ein gutes Indiz sein. So sind es bei Koha über 500. Dies kann auch eine höhere Stabilität bedeutet, da auch in ein paar Jahren noch Support da wäre. Auch wurden die verschiedenen Linzenz-Modelle angeschaut. Interessant ist dabei die Frage wie man als Entwickler eines Open-Source-Programms doch Geld erwirtschaften kann. Auch das Testing wird bei den Credits mitberücksichtigt, was auch wieder von seriösen Produkten und Communitys zeugt. Erneut fühle ich mich wieder einen kleinen Schritt weiter bei den Kenntnissen rundum die Evaluation von Software. 
 <br>
  <h4><b>Koha</b></h4>
