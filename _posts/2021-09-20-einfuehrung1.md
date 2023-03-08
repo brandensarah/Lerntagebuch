@@ -2,8 +2,8 @@
 title: "Einführungsartikel"
 date: 2023-02-19
 ---
-<details open>
-<summary>Wo bin ich gestartet?</summary>
+
+### Wo bin ich gestartet
 <br>
 <p>Liebes Tagebuch</p>
 So, nun gilt es dich im Zuge des Moduls BAIN zu füttern. Momentan bist du noch so hungrig, wie ein Murmeltier im Frühjahr. Ich bin aber überzeugt, dass sich die Zeilen und Seiten füllen werden und das Gelernte viel sein wird.<br>
