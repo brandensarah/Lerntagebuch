@@ -25,7 +25,7 @@ Dabei können beispielsweise Facetten erstellt werden.
    <br>
   <br>
 Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot 
-![Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot](https://github.com/brandensarah/Lerntagebuch/blob/master/bild_le2_2.jpg)
+![Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot](bild_le2_2.jpg)
      <br>
 Bei einer kleinen Fingerübung hatten wir die Gelegenheit OpenRefine noch etwas anzuwenden. Es ging darum, einen Namen zu korrigieren, der in zwei verschiedenen Varianten erschien. Den einen Namen, die eine Schreibweise, konnte ich mittels eines Edit-Tools anpassen, was gut gelang.
 Auch ist es möglich, im OpenRefine Cluster zu erstellen.
