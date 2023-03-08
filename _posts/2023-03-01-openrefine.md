@@ -12,7 +12,7 @@ OpenRefine kann besonders gut mit Tabellendaten umgehen. Es kann auch MARCXML un
 Zur Übung importierte jede/r Daten mit einer kleineren Menge von 1001 Zeilen von Journals ins OpenRefine. Und wir erstellten somit ein neues Projekt. Was für mich gut ging. <br>
 Dies sah dann so aus: <br>
  <br>
-<img src="https://github.com/brandensarah/Lerntagebuch/blob/42f6fdbcb30da48f6dcad282b468e2bc9d1bd8f1/_posts/bild_le2_1.png">
+![](bild_le2_1.png)
   <br>
    <br>
  Abbildung 1: Die importierten Daten. Screenshot 
@@ -21,9 +21,12 @@ Dies sah dann so aus: <br>
 Dabei können beispielsweise Facetten erstellt werden. 
  <br>
   <br>
-![Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot](bild_le2_2.jpg)
+ 
+![](bild_le2_2.jpg)
      <br>
+Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot
      <br>
+      <br>
 Bei einer kleinen Fingerübung hatten wir die Gelegenheit OpenRefine noch etwas anzuwenden. Es ging darum, einen Namen zu korrigieren, der in zwei verschiedenen Varianten erschien. Den einen Namen, die eine Schreibweise, konnte ich mittels eines Edit-Tools anpassen, was gut gelang.
 Auch ist es möglich, im OpenRefine Cluster zu erstellen.
 Zuletzt wurde noch die Reconciliation vorgestellt, bei der Angaben zum Journal über die ISSN ergänzt werden können. Dabei entsteht eine zusätzliche Spalte. Auch dies war mir neu. 
