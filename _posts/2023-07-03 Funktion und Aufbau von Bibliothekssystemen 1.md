@@ -12,7 +12,7 @@ Auch wurde BIBFRAME kurz angeschnitten, mit dem Ziel MARC 21 längerfristig abzu
 <br>
 Bei einer kleinen Übung luden wir Daten einmal im MARC 21 und einmal im Dublin Core Standard, mit dem Ziel die Unterschiede herauszufinden. Ich empfand Dublin Core als besser für den Menschen lesbar. Schon Begriffe wie «Language», «Subject» oder «Identifier» gaben Hinweise, wohingegen im MARC 21 nur Tags mit Zahlen gab, die nachgeschlagen werden müssen. 
 <br>
-<h4><b>Unterschied Regelwerk und Metadaten</b></h4>
+<h4><b>Regelwerke</b></h4>
 <br>
 Bei den Regelwerken gibt es Functional Requirements for Bibliographic Records (FRBR) und Resource Description and Access (RDA) sind Regelwerke, die nicht mit Metadaten zu verwechseln sind. In den Regelwerken ist aufgeführt. Das Functional Requirements for Bibliographic Records (FRBR) und benennt Beziehungen zwischen Entitäten resp. basiert auf einem Entity-Relationship-Modell. Es sind aber auch Begriffe wie Exemplar, Manifestation u.s.w. mit Merkmalen definiert (<a href="https://repository.ifla.org/bitstream/123456789/817/1/ifla-functional-requirements-for-bibliographic-records-frbr_2006-de.pdf">IFLA</a>). 
 <br>
