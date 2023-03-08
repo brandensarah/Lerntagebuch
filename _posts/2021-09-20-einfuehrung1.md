@@ -1,5 +1,5 @@
 ---
-title: "Einführungsartikel"
+title: "Funktion und Aufbau von Bibliothekssystemen Teil 1"
 date: 2023-03-08
 ---
 
