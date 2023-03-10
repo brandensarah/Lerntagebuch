@@ -4,9 +4,9 @@ date: 2023-02-19
 ---
 
 ### Wo bin ich gestartet?
-
+So, nun gilt es dich im Zuge des Moduls BAIN zu füttern. Momentan bist du noch so hungrig, wie ein Murmeltier im Frühjahr. Ich bin aber überzeugt, dass sich die Zeilen und...
 #### **Liebes Tagebuch**
-So, nun gilt es dich im Zuge des Moduls BAIN zu füttern. Momentan bist du noch so hungrig, wie ein Murmeltier im Frühjahr. Ich bin aber überzeugt, dass sich die Zeilen und Seiten füllen werden und das Gelernte viel sein wird.<br>
+So, nun gilt es dich im Zuge des Moduls BAIN zu füttern. Momentan bist du noch so hungrig, wie ein Murmeltier im Frühjahr. Ich bin aber überzeugt, dass sich die Zeilen und... Seiten füllen werden und das Gelernte viel sein wird.<br>
 <br>
 ---
 Meine Erfahrungen im Praxisbereich der Bibliotheks- und Archivinformatik bezieht sich auf ein Bildarchiv, das über ein NAS-System funktionierte. Wobei es aber bei meinem Teil weniger um die technische Aspekte, sondern mehr um die Bewertung, Verschlagwortung den Upload ging. Die Erfahrungen beliefen sich auf Anwenderseite. Darum bin ich schon gespannt, was ich im kommenden Modul mehr über Archivsysteme –und natürlich auch Bibliothekssysteme – erfahre. Gerade das Kennenlernen der technischen Aspekte interessiert mich.<br>   
