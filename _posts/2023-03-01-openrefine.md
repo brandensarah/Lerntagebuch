@@ -25,9 +25,7 @@ Dies sah dann so aus: <br>
   <br>
 Dabei können beispielsweise Facetten erstellt werden. 
  <br>
-  <br>
- 
-![](bild_le2_2.jpg)
+  
 ![](https://raw.githubusercontent.com/brandensarah/Lerntagebuch/master/_posts/bild_le2_2.jpg)
      <br>
 Abbildung 2: Eine einfache Facette mit der Spalte «Language». Screenshot
