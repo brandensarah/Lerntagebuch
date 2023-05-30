@@ -1,6 +1,6 @@
 ---
 title: "Einführungsartikel"
-date: 2023-02-19
+date: 2023-02-14
 ---
 
 ### Wo bin ich gestartet?
