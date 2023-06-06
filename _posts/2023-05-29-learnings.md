@@ -19,7 +19,7 @@ Abbildung 1: Schaubild der Lerninhalte, Quelle: aus dem Modul
 Nachdem wir uns mit Github und Markdown bekannt gemacht hatten, folgte noch eine kleine Wiederholung der Linux Shell. Dies war ein guter Einstieg und die Wiederholung tat gut, bereits gelerntes wieser ins nähere Gedächtnis zu rufen.
 <br>
 #### **Metadaten**
-Sicherlich habe ich noch mehr über Metadaten erfahren und auch in der Praxis gesehen wie diese beispielsweise konvertiert werden. 
+Sicherlich habe ich noch mehr über Metadaten erfahren und auch in der Praxis gesehen wie diese beispielsweise konvertiert werden. Speziell in Erinnerung bleiben wird mir, dass man nach einem Crosswalk immer schauen muss, was mit den Daten genau passiert ist und ob die Konvertierung verlustfrei war.
 <br>
 #### **Softwareevaluation**
 Auch immer wieder wurden Teile gezeigt, was hilfreich bei der Evaluation von Software ist. Dazu gehörte beispielsweise, dass man bei einer Open-Source-Software schauen kann, wie die Community aufgestellt ist. Auch wer eine Software nutzt und für was sie genutzt wird, kann bei der Evaluation einer Software gute Hinweise liefern, ob die Software geeignet sein kann. Eine gute Übersicht gibt es beispielsweise auf <a href="https://openhub.net/">Openhub.net</a>. 
