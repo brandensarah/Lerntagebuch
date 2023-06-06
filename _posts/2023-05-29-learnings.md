@@ -13,7 +13,7 @@ So, nun ist er zu Ende. Der Kurs BAIN, Bibliothekts- und Archivinformatik. Nochm
 ![](https://raw.githubusercontent.com/brandensarah/Lerntagebuch/master/_posts/übersicht.png)
 <br>
 <br>
-Abbildung 1: Schaubild er Lerninhalte (Quelle: aus dem Modul)
+Abbildung 1: Schaubild er Lerninhalte, Quelle: aus dem Modul
 <br>
 <br>
 
