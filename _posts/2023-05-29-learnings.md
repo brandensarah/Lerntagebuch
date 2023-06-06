@@ -20,6 +20,6 @@ Abbildung 1: Schaubild er Lerninhalte, Quelle: aus dem Modul
 
 Quellen: 
 <br>
-Richter, H. (2013). Reguläre Sprachen, reguläre Ausdrücke. Verfügbar unter: https://www.lrz.de/services/schulung/unterlagen/regul/
+
 
 
