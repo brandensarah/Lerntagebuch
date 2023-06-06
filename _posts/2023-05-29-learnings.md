@@ -22,10 +22,15 @@ Nachdem wir uns mit Github und Markdown bekannt gemacht hatten, folgte noch eine
 Sicherlich habe ich noch mehr über Metadaten erfahren und auch in der Praxis gesehen wie diese beispielsweise konvertiert werden. Speziell in Erinnerung bleiben wird mir, dass man nach einem Crosswalk immer schauen muss, was mit den Daten genau passiert ist und ob die Konvertierung verlustfrei war.
 <br>
 #### **Softwareevaluation**
-Auch immer wieder wurden Teile gezeigt, was hilfreich bei der Evaluation von Software ist. Dazu gehörte beispielsweise, dass man bei einer Open-Source-Software schauen kann, wie die Community aufgestellt ist. Auch wer eine Software nutzt und für was sie genutzt wird, kann bei der Evaluation einer Software gute Hinweise liefern, ob die Software geeignet sein kann. Eine gute Übersicht gibt es beispielsweise auf <a href="https://openhub.net/">Openhub.net</a>. 
+Auch immer wieder wurden Teile gezeigt, was hilfreich bei der Evaluation von Software ist. Dazu gehörte beispielsweise, dass man bei einer Open-Source-Software schauen kann, wie die Community aufgestellt ist. Auch wer eine Software nutzt und für was sie genutzt wird, kann bei der Evaluation einer Software gute Hinweise liefern, ob die Software geeignet sein kann. So kann mit all den Abgaben die Stabilität auch abgeschätzt werden. Eine gute Übersicht gibt es beispielsweise auf <a href="https://openhub.net/">Openhub.net</a>. 
+<br>
+Auch in Erinnerung wird mir bleiben, dass der Markt teilweise recht konzentriert ist und es viele Zusammenschlüsse gibt.
 <br>
 #### **Github**
 Mit dabei im Kurs war auch das Arbeiten mit resp. auf Github. Dies werde ich sicher weiterhin mitnehmen. 
+<br>
+Schnittstellen
+Weiter lernten wir noch die Schnittstellen SRU-Z39.50 und OAI-PMH für den Datenimport und -export kennen. 
 <br>
 
 Quellen: 
