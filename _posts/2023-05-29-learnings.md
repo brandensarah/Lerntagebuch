@@ -16,7 +16,15 @@ So, nun ist er zu Ende. Der Kurs BAIN, Bibliothekts- und Archivinformatik. Zu Be
 Abbildung 1: Schaubild er Lerninhalte, Quelle: aus dem Modul
 <br>
 <br>
-
+#### **Metadaten**
+Sicherlich habe ich noch mehr über Metadaten erfahren und auch in der Praxis gesehen wie diese beispielsweise konvertiert werden. 
+<br>
+#### **Softwareevaluation**
+Auch immer wieder wurden Teile gezeigt, was hilfreich bei der Evaluation von Software ist. 
+<br>
+#### **Github**
+Mit dabei im Kurs war auch das Arbeiten mit resp. auf Github. Dies werde ich sicher weiterhin mitnehmen. 
+<br>
 
 Quellen: 
 <br>
