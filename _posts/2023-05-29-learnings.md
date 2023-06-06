@@ -22,7 +22,7 @@ Nachdem wir uns mit Github und Markdown bekannt gemacht hatten, folgte noch eine
 Sicherlich habe ich noch mehr über Metadaten erfahren und auch in der Praxis gesehen wie diese beispielsweise konvertiert werden. 
 <br>
 #### **Softwareevaluation**
-Auch immer wieder wurden Teile gezeigt, was hilfreich bei der Evaluation von Software ist. Dazu gehörte beispielsweise, dass man bei einer Open-Source-Software schauen kann, wie die Community aufgestellt ist. Auch wer eine Software nutzt und für was sie genutzt wird, kann bei der Evaluation einer Software gute Hinweise liefern, ob die Software geeignet sein kann. Eine gute Übersicht gibt es beispielsweise auf Openhub.net. 
+Auch immer wieder wurden Teile gezeigt, was hilfreich bei der Evaluation von Software ist. Dazu gehörte beispielsweise, dass man bei einer Open-Source-Software schauen kann, wie die Community aufgestellt ist. Auch wer eine Software nutzt und für was sie genutzt wird, kann bei der Evaluation einer Software gute Hinweise liefern, ob die Software geeignet sein kann. Eine gute Übersicht gibt es beispielsweise auf <a href="https://openhub.net/">Openhub.net/<a>. 
 <br>
 #### **Github**
 Mit dabei im Kurs war auch das Arbeiten mit resp. auf Github. Dies werde ich sicher weiterhin mitnehmen. 
