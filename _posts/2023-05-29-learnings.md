@@ -21,6 +21,9 @@ Nachdem wir uns mit Github und Markdown bekannt gemacht hatten, folgte noch eine
 #### **Metadaten**
 Sicherlich habe ich noch mehr über Metadaten erfahren und auch in der Praxis gesehen wie diese beispielsweise konvertiert werden. Speziell in Erinnerung bleiben wird mir, dass man nach einem Crosswalk immer schauen muss, was mit den Daten genau passiert ist und ob die Konvertierung verlustfrei war. Wenn man in die Zukunft schaut war auch interessant zu sehen, dass die Metadatenformate eine grössere Änderung von MARC21 nach RiC durchlaufen werden, dies auch um den Anforderungen für Daten im und aus dem Web gerecht zu werden. 
 <br>
+#### **Schnittstellen**
+Weiter lernten wir noch die Schnittstellen SRU-Z39.50 und OAI-PMH für den Datenimport und -export kennen. Im allgmeinen war es gut, die Datenimporte und -exporte live zu tätigen und in der Praxis zu erfahren. Dies hat beim Verständnis gut geholfen.
+<br>
 #### **Softwareevaluation**
 Auch immer wieder wurden Teile gezeigt, was hilfreich bei der Evaluation von Software ist. Dazu gehörte beispielsweise, dass man bei einer Open-Source-Software schauen kann, wie die Community aufgestellt ist. Auch wer eine Software nutzt und für was sie genutzt wird, kann bei der Evaluation einer Software gute Hinweise liefern, ob die Software geeignet sein kann. So kann mit all den Abgaben die Stabilität auch abgeschätzt werden. Eine gute Übersicht gibt es beispielsweise auf <a href="https://openhub.net/">Openhub.net</a>. Bei verschieden Systemen wie Bibliothekssoftware, Archivsoftware, Metadatenumwandlungssoftware, Forschungsdatenpublikationssoftware und Discovery-Systeme gab es jeweils einen Marktüberblick, was ich sehr hilf- und lehrreich fand. 
 <br>
@@ -29,12 +32,9 @@ Auch in Erinnerung wird mir bleiben, dass der Markt teilweise recht konzentriert
 #### **Github**
 Mit dabei im Kurs war auch das Arbeiten mit resp. auf Github. Dies werde ich sicher weiterhin mitnehmen. 
 <br>
-#### **Schnittstellen**
-Weiter lernten wir noch die Schnittstellen SRU-Z39.50 und OAI-PMH für den Datenimport und -export kennen. Im allgmeinen war es gut die Datenimporte und -exporte live zu tätigen und in der Praxis zu erfahren.
-<br>
 
-Quellen: 
-<br>
+
+
 
 
 
