@@ -32,10 +32,8 @@ Auch in Erinnerung wird mir bleiben, dass der Markt teilweise recht konzentriert
 <br>
 #### **Github**
 Mit dabei im Kurs war auch das Arbeiten mit resp. auf Github. Dies werde ich sicher weiterhin mitnehmen. 
-
-
 <br>
-#### **Liebes Tagebuch**
+#### **Adieu, liebes Tagebuch**
 So, liebes Tagebuch, dies war es nun mit dem Kurs BAIN. Die Seiten haben sich gefüllt und mein Wissen über diese spannenden Bereich hat sich angefüllt. 
 <br>
 
