@@ -9,13 +9,14 @@ date: 2023-05-31
 
 
 #### **Kursübersicht**
-So, nun ist er zu Ende. Der Kurs BAIN, Bibliothekts- und Archivinformatik. 
+So, nun ist er zu Ende. Der Kurs BAIN, Bibliothekts- und Archivinformatik. Nochmals kurz die Übersicht, was wir alles behandelt haben (siehe Abbildung 1).
 ![](https://raw.githubusercontent.com/brandensarah/Lerntagebuch/master/_posts/übersicht.png)
 <br>
 <br>
 Abbildung 1: Schaubild er Lerninhalte (Quelle: aus dem Modul)
 <br>
 <br>
+
 
 Quellen: 
 <br>
