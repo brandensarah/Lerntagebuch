@@ -16,7 +16,7 @@ So, nun ist er zu Ende. Der Kurs BAIN, Bibliothekts- und Archivinformatik. Zu Be
 Abbildung 1: Schaubild der Lerninhalte (Quelle: aus dem Modul)
 <br>
 <br>
-Begonnen hatte das Modul nach der Einführung mit OpenRefine (der Umwandlung und Bereinigung von Daten), danach ging es zu den Bibliothektssystemen (wie Koha) über, dann zu den Archivsystemen (wie ArchiveSpace) und schliesslich zu DSPace als System für Forschungsdaten und VuFind für Discovery-Systeme. Grosser Teil waren auch die Crosswalks von Metadaten . Abgeschlossen wurde der Kurs mit Linked Data.
+Begonnen hatte das Modul nach der Einführung mit OpenRefine (der Umwandlung und Bereinigung von Daten), danach ging es zu den Bibliothektssystemen (wie Koha) über, dann zu den Archivsystemen (wie ArchiveSpace) und schliesslich zu DSPace als System für Forschungsdaten und VuFind für Discovery-Systeme. Grosser Teil waren auch die Crosswalks von Metadaten. Abgeschlossen wurde der Kurs mit Linked Data.
 Den ganzen Kurs haben auch verschiedene Übungen begleitet. Allgemein haben diese Übungen mir geholfen, die Themen besser zu verstehen. 
 <br>
 #### **Metadaten**
