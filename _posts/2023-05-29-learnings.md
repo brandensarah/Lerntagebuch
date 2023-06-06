@@ -29,8 +29,8 @@ Auch in Erinnerung wird mir bleiben, dass der Markt teilweise recht konzentriert
 #### **Github**
 Mit dabei im Kurs war auch das Arbeiten mit resp. auf Github. Dies werde ich sicher weiterhin mitnehmen. 
 <br>
-Schnittstellen
-Weiter lernten wir noch die Schnittstellen SRU-Z39.50 und OAI-PMH für den Datenimport und -export kennen. 
+#### **Schnittstellen**
+Weiter lernten wir noch die Schnittstellen SRU-Z39.50 und OAI-PMH für den Datenimport und -export kennen. Im allgmeinen war es gut die Datenimporte und -exporte live zu tätigen und in der Praxis zu erfahren.
 <br>
 
 Quellen: 
