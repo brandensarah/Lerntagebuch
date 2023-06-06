@@ -32,8 +32,12 @@ Auch in Erinnerung wird mir bleiben, dass der Markt teilweise recht konzentriert
 #### **Github**
 Mit dabei im Kurs war auch das Arbeiten mit resp. auf Github. Dies werde ich sicher weiterhin mitnehmen. 
 <br>
-
-
+#### **Verschiedene Übungen**
+Verschiedene Übungen haben den Kurs begleitet. Allgemein haben diese Übungen mir geholfen, die Themen besser zu verstehen. 
+<br>
+#### **Liebes Tagebuch**
+So, liebes Tagebuch, dies war es nun mit dem Kurs BAIN. Die Seiten haben sich gefüllt und mein Wissen über diese spannenden Bereich hat sich angefüllt.
+<br>
 
 
 
