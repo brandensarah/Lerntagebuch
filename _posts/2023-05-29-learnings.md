@@ -13,7 +13,7 @@ So, nun ist er zu Ende. Der Kurs BAIN, Bibliothekts- und Archivinformatik. Zu Be
 ![](https://raw.githubusercontent.com/brandensarah/Lerntagebuch/master/_posts/übersicht.png)
 <br>
 <br>
-Abbildung 1: Schaubild der Lerninhalte, Quelle: aus dem Modul
+Abbildung 1: Schaubild der Lerninhalte (Quelle: aus dem Modul)
 <br>
 <br>
 Nachdem wir uns mit Github und Markdown bekannt gemacht hatten, folgte noch eine kleine Wiederholung der Linux Shell. Dies war ein guter Einstieg und die Wiederholung tat gut, bereits gelerntes wieser ins nähere Gedächtnis zu rufen.
