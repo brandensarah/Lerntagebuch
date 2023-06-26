@@ -3,7 +3,7 @@ title: "Learnings"
 date: 2023-05-31
 ---
 
-### Was ich (nicht) gelernt habe
+### Was ich gelernt habe
 **Zeit um zurückzublicken. Was habe ich gelernt?**
 
 
